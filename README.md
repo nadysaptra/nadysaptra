@@ -27,8 +27,8 @@
   <code><img height="36" alt="react-native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=nadysaptra&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nadysaptra&amp;show_icons=true&count_private=true" alt="GitHub Stats"></p>
 <p>
 <a href="https://github.com/Orlandoj77">
-  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadysaptra&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380" /></a>                   <!-- do ultimo para o primeiro -->
+  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadysaptra&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&count_private=true" /></a>                   <!-- do ultimo para o primeiro -->
 </p>
