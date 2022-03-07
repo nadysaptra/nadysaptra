@@ -5,7 +5,7 @@
 
 
 #### 🥷 About me <br />
-  - 💼 Front-End Engineer at [Bountie](https://bountie.io/)
+  - 💼 Front-End Engineer at [Accelbyte](https://accelbyte.io/)
   - ❤️ I love writing TypeScript|Javascript|Python|PHP
   - 💬 Ask me about anything [here](https://github.com/nadysaptra/nadysaptra/issues)
 
