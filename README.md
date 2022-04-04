@@ -29,6 +29,6 @@
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=nadysaptra&amp;show_icons=true&count_private=true" alt="GitHub Stats"></p>
 <p>
-<a href="https://github.com/Orlandoj77">
+<a href="https://github.com/nadysaptra">
   <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadysaptra&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&count_private=true" /></a>                   <!-- do ultimo para o primeiro -->
 </p>
